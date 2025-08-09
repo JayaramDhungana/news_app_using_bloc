@@ -46,15 +46,17 @@ It fetches real-time news from [NewsAPI.org](https://newsapi.org/) and comes wit
 | News detail screen showing article summary | WebView showing the original news article page |
 
 ## 🔧 Setup
-
 1. **Clone the repository**
-   git clone https://github.com/JayaramDhungana/news_app_using_bloc.git
-   cd news_app
+  - git clone https://github.com/JayaramDhungana/news_app_using_bloc.git
+   - cd news_app
+   
 2.**Install dependencies**
-   flutter pub get
+  - flutter pub get
+   
 3.**Get your API Key from NewsAPI.org and add it to your configuration file.**
+
 4.**Run the app**
-   flutter run
+  - flutter run
 
    
 ### Learning Outcome
