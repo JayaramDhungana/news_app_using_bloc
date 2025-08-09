@@ -31,7 +31,7 @@ It fetches real-time news from [NewsAPI.org](https://newsapi.org/) and comes wit
 ---
 
 ### Home & Sources
-| ![Home Screen](screenshots/home_screen_all_sources_news.png) | ![Followed Sources](screenshots/followed%20source.pn) | ![Favourite News](screenshots/favourite_news_screen.png) |
+| ![Home Screen](screenshots/home_screen_all_sources_news.png) | ![Followed Sources](screenshots/followed%20source.png) | ![Favourite News](screenshots/favourite_news_screen.png) |
 |:-----------------------------:|:------------------------:|:------------------------:|
 | Home Screen showing all news sources | Screen displaying followed news sources | Your list of liked/favourite news articles |
 
