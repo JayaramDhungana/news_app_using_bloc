@@ -48,7 +48,7 @@ It fetches real-time news from [NewsAPI.org](https://newsapi.org/) and comes wit
 ## 🔧 Setup
 
 1. **Clone the repository**
-   git clone https://github.com/your-username/news_app.git](https://github.com/JayaramDhungana/news_app_using_bloc.git
+   git clone https://github.com/JayaramDhungana/news_app_using_bloc.git
    cd news_app
 2.**Install dependencies**
    flutter pub get
