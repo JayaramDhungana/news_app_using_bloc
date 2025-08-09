@@ -30,8 +30,6 @@ It fetches real-time news from [NewsAPI.org](https://newsapi.org/) and comes wit
 
 ---
 
-## 📸 Screenshots
-
 ### Home & Sources
 | ![Home Screen](screenshots/home_screen_all_sources_news.png) | ![Followed Sources](screenshots/followed source.png) | ![Favourite News](screenshots/favourite_news_screen.png) |
 |:-----------------------------:|:------------------------:|:------------------------:|
@@ -39,9 +37,13 @@ It fetches real-time news from [NewsAPI.org](https://newsapi.org/) and comes wit
 
 ### Categories
 | ![Business Category](screenshots/category_wise_news_business.png) | ![Science Category](screenshots/category_wise_news_science.png) | ![Technology Category](screenshots/category_wise_news_technology.png) |
+|:------------------------------:|:---------------------------:|:------------------------------:|
+| Business news articles | Science news articles | Technology news articles |
 
 ### News Details
 | ![News Detail](screenshots/detail_news.png) | ![News Detail WebView](screenshots/more_detail_news_using_web_view.png) |
+|:-------------------------:|:--------------------------------:|
+| News detail screen showing article summary | WebView showing the original news article page |
 
 ## 🔧 Setup
 
